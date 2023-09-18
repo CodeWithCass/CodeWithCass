@@ -1,6 +1,6 @@
 ### Hi there, I'm Cassie 👋
 
-I’m a fullstack JS developer and part-time student 🤓. I currently work as a fullstack engineer in South Africa.
+I’m a fullstack JS developer🤓. I currently work as a fullstack engineer in South Africa.
 
 - 📱 I’m currently working on my personal website 😊.
 - 🤓 I’m currently learning Python & Java.
