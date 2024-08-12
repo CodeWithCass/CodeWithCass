@@ -3,8 +3,8 @@
 I’m a fullstack JS developer🤓. I currently work as a fullstack engineer in South Africa.
 
 - 📱 I’m currently working on my personal website 😊.
-- 🤓 I’m currently learning Python & Java.
-- 💬 Ask me about JS development, Typescript, NodeJS.
+- 🤓 I’m currently learning Angular & Azure.
+- 💬 Ask me about Software Development, Typescript, NodeJS.
 - 🏑 Fun fact: I love hockey! 
 <!--
 **CodeWithCass/CodeWithCass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
