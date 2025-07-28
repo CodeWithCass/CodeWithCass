@@ -2,10 +2,6 @@
 
 I’m a fullstack software developer based in South Africa🤓.
 
-- 📱 I’m currently working on my personal website 😊.
-- 🤓 I’m currently learning Angular & Azure.
-- 💬 Ask me about Software Development, Typescript, NodeJS.
-- 🏑 Fun fact: I love hockey! 
 <!--
 **CodeWithCass/CodeWithCass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
